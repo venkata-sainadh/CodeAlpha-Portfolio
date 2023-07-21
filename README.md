@@ -12,7 +12,7 @@ Welcome to my personal portfolio repository! This project showcases my skills, p
 # Features
 * Home: Get a brief introduction about me and my interests.
 * About: Learn more about my background, education, and experiences.
-* Portfolio: View a collection of my projects, including descriptions, technologies used .
+* Projects: View a collection of my projects, including descriptions, technologies used .
 * Contact: Connect with me through the contact form or find links to my social media profiles.
 
 # Installation and Usage
